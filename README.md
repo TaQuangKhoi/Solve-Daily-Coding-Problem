@@ -1,2 +1,3 @@
-# Solve-Daily-Coding-Problem
+# Solve Daily Coding Problem
+
 try my best
